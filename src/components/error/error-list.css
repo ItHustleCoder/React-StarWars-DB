@@ -1,0 +1,37 @@
+.error-main {
+    margin: 0 auto;
+}
+
+.span-msg {
+    display: block;
+    text-align: center;
+    margin: 5px;
+    color: tomato;
+    font-weight: bold;
+    font-size: 40px;
+
+
+}
+
+.error-main span {
+    display: block;
+    text-align: center;
+    margin: 5px;
+    
+    
+}
+
+.smt-wrong {
+    color: rgb(246, 26, 26);
+    font-size: 20px;
+}
+
+.last-span {
+    color: thistle;
+    font-size: 18px;
+}
+
+.error-main img {
+    display: block;
+    margin: 0 auto;
+}
